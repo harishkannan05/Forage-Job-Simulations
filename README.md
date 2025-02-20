@@ -1,5 +1,5 @@
 # Forage Job Simulations - Virtual Internships
-This repository highlights the virtual experience programs I have completed on Forage, including the skills gained, tasks completed, and key takeaways from each program.
+This repository highlights the virtual internship programs I completed on Forage, where I tackled real-world cybersecurity challenges through practical job simulations with leading organizations. Each project showcases the technical and strategic skills I gained, the tasks I completed, and key takeaways from each experience.
 
 ### Mastercard Cybersecurity Virtual Experience Program on Forage - February 2025
 
